@@ -19,6 +19,12 @@
   <a href="https://www.linkedin.com/in/aditya-keskar-26706a21b/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo" />
   </a>
+  <a href="mailto:adityakeskar123@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Email logo" />
+  </a>
+  <a href="YOUR_PORTFOLIO_URL_HERE">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=portfolio&label=&color=FF5733&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Portfolio logo" />
+  </a>
 </div>
 
 

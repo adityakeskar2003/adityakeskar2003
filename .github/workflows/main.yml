@@ -24,6 +24,8 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: dist/snake.svg?palette=github-dark
 
+      - name: Set background color to white
+        run: sed -i 's/<div id="snake">/<div id="snake" style="background-color: white;">/g' dist/snake.svg
 
       - name: push snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
@@ -32,3 +34,4 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+

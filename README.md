@@ -85,7 +85,9 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/adityakeskar2003/adityakeskar2003/output/snake.svg" alt="Snake animation" />
+<div style="background-color: white; padding: 10px;">
+  <img src="https://raw.githubusercontent.com/adityakeskar2003/adityakeskar2003/output/snake.svg" alt="Snake animation" />
+</div>
 
 ###
 

@@ -22,7 +22,7 @@
   <a href="mailto:adityakeskar123@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Email logo" />
   </a>
-  <a href="YOUR_PORTFOLIO_URL_HERE">
+  <a href="https://production-portfolio-mern-project.onrender.com/">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=portfolio&label=&color=FF5733&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Portfolio logo" />
   </a>
 </div>
